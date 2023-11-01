@@ -1,0 +1,7 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿ÀŠ­8àƒÿ³¸1
+?
+java:S2189""Correct this loop's end condition.(ê÷Ó¡8æƒÿ³¸1
+V
+java:S2251"9"i" is decremented and will never reach "stop condition".(ê÷Ó¡8éƒÿ³¸1
+G	java:S106"+Replace this use of System.out by a logger.(ýç·ç8êƒÿ³¸1

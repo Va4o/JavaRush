@@ -1,0 +1,8 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óÈ¼
+a
+java:S5738
+"FDon't override this deprecated method, it has been marked for removal.(ÖÒ˜Ùùÿÿÿÿ
+H
+java:S1113
+"-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ

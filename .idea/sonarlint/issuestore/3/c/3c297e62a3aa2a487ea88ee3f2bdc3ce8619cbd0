@@ -1,0 +1,51 @@
+
+v
+java:S1104"TMake catCount a static final constant or non-public and provide accessors if needed.(Ê‡¯íúÿÿÿÿ8Ç©€¸1
+P
+java:S1444".Make this "public static catCount" field final(Ê‡¯íúÿÿÿÿ8Ç©€¸1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İª²øÿÿÿÿ8Ç©€¸1
+„
+java:S4165"bRemove this useless assignment; "name" already holds the assigned value along all execution paths.(É´“ıÿÿÿÿ8Ê©€¸1
+V
+java:S1854"9Remove this useless assignment to local variable "cat10".(è¼ÿú8Ì©€¸1
+Z
+java:S1854"8Remove this useless assignment to local variable "cat9".(µ¸è½şÿÿÿÿ8Ì©€¸1
+Z
+java:S1854"8Remove this useless assignment to local variable "cat8".(èíú²øÿÿÿÿ8Ì©€¸1
+U
+java:S1854"8Remove this useless assignment to local variable "cat7".(»Ø¦Ö8Ì©€¸1
+Z
+java:S1854"8Remove this useless assignment to local variable "cat6".(˜çÓîıÿÿÿÿ8Ì©€¸1
+U
+java:S1854"8Remove this useless assignment to local variable "cat5".(ˆ½öÌ8Ì©€¸1
+Z
+java:S1854"8Remove this useless assignment to local variable "cat4".(…®Ùüÿÿÿÿ8Ì©€¸1
+Z
+java:S1854"8Remove this useless assignment to local variable "cat3".(†À£©ıÿÿÿÿ8Ì©€¸1
+Z
+java:S1854"8Remove this useless assignment to local variable "cat2".(ô­Æ›ÿÿÿÿÿ8Ì©€¸1
+Z
+java:S1854"8Remove this useless assignment to local variable "cat1".(… ê¯ıÿÿÿÿ8Ì©€¸1
+K
+java:S1481")Remove this unused "cat1" local variable.(… ê¯ıÿÿÿÿ8Í©€¸1
+K
+java:S1481")Remove this unused "cat2" local variable.(ô­Æ›ÿÿÿÿÿ8Í©€¸1
+K
+java:S1481")Remove this unused "cat3" local variable.(†À£©ıÿÿÿÿ8Í©€¸1
+K
+java:S1481")Remove this unused "cat4" local variable.(…®Ùüÿÿÿÿ8Í©€¸1
+F
+java:S1481")Remove this unused "cat5" local variable.(ˆ½öÌ8Í©€¸1
+K
+java:S1481")Remove this unused "cat6" local variable.(˜çÓîıÿÿÿÿ8Í©€¸1
+F
+java:S1481")Remove this unused "cat7" local variable.(»Ø¦Ö8Î©€¸1
+K
+java:S1481")Remove this unused "cat8" local variable.(èíú²øÿÿÿÿ8Î©€¸1
+K
+java:S1481")Remove this unused "cat9" local variable.(µ¸è½şÿÿÿÿ8Î©€¸1
+G
+java:S1481"*Remove this unused "cat10" local variable.(è¼ÿú8Î©€¸1
+G	java:S106"+Replace this use of System.out by a logger.(Î´…Ê8Î©€¸1
+Q
+java:S1656"/Remove or correct this useless self-assignment.(É´“ıÿÿÿÿ8Î©€¸1
