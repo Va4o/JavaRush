@@ -10,15 +10,15 @@ public class bigMassive {
         int[] array = new int[20];
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
-        for(int i = 0; i < array.length; i++){
+        for (int i = 0; i < array.length; i++) {
             String s = reader.readLine();
             array[i] = Integer.parseInt(s);
         }
-        int[] arrayF = (int[])Arrays.copyOf(array,10);
-        int[] arrayS = (int[])Arrays.copyOf(array, 20);
+        int[] arrayF = (int[]) Arrays.copyOf(array, 10);
+        int[] arrayS = (int[]) Arrays.copyOf(array, 20);
 
 
-        for(int i = 10; i < array.length; i++){
+        for (int i = 10; i < array.length; i++) {
             System.out.println(arrayS[i]);
         }
 
