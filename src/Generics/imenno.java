@@ -8,6 +8,9 @@ public class imenno {
     public static void main(String[] args) throws IOException {
         String[] list = {"Mama", "Mila", "Ramu"};
         ArrayList<String> List2 = new ArrayList<>(Arrays.asList(list));
+        for(int i = 0; i < list.length; i++){
+
+        }
 
 
     }
