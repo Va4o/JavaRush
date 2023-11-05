@@ -5,6 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81ad4fd8-6ea3-431a-89c1-3385ebce6584" name="Changes" comment="-">
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/dlteLst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/fiveDifferent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/longString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/shortString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/tenStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/imenno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/reversedWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +32,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Va4o&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="29a2042f-4b13-44e6-8274-de97fc6dd821" />
+        <option name="url" value="https://github.com/Va4o/JavaRush" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$PROJECT_DIR$/../../../../../Program Files/Java/jdk-19/lib/src.zip!/java.base/java/io/Reader.java" root0="SKIP_INSPECTION" />
   </component>
@@ -32,7 +56,9 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2WtRTxISoPmYU5wQjBKb9dDmCIW" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -57,6 +83,19 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="Cat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cat.Cat" />
+      <module name="javarush" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Classes.Main" />
       <module name="javarush" />
@@ -67,6 +106,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Cat" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +167,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698845367816</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="-">
+      <option name="closed" value="true" />
+      <created>1698847259800</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698847259800</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
