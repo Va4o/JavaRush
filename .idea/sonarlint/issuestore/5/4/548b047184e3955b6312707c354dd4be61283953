@@ -1,0 +1,11 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Úª³œÿÿÿÿÿ8é œ¼1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†‹ŠÖşÿÿÿÿ8ë œ¼1
+T
+java:S1854"8Remove this useless assignment to local variable "keys".(ÇÔë8ó œ¼1
+]	java:S125"<This block of commented-out lines of code should be removed.(ÿ”óÀùÿÿÿÿ8÷ œ¼1
+E
+java:S1481")Remove this unused "keys" local variable.(ÇÔë8ø œ¼1
+L	java:S106"+Replace this use of System.out by a logger.(æôÏ»øÿÿÿÿ8ßÀœ¼1
+L
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8ù œ¼1

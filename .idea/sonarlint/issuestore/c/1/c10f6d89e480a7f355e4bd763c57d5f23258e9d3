@@ -1,0 +1,9 @@
+
+e
+java:S1192
+"HDefine a constant instead of duplicating this literal "Surname" 9 times.(ë²ì¨8Íå‰³À1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(šÒ„ùÿÿÿÿ8Û—‰³À1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ°¼ûÿÿÿÿ8Ü—‰³À1
+a
+java:S4143"DVerify this is the key that was intended; it was already set before.(ë²ì¨8³®Œ³À1
+G	java:S106"+Replace this use of System.out by a logger.(çÁ×ú8ÿì³À1

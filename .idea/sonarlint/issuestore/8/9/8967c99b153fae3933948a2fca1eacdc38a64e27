@@ -1,14 +1,4 @@
 
-m	java:S117
-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼¸ú€8Ñ­Õº1
-i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(×ÿÍª8Ò­Õº1
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·±’õ8Ó­Õº1
-V
-java:S1854
-"9Remove this useless assignment to local variable "List2".(¼¸ú€8Ø­Õº1
-‰
-java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8Ù­Õº1
-G
-java:S1481
-"*Remove this unused "List2" local variable.(¼¸ú€8Û­Õº1
-E	java:S108")Either remove or fill this block of code.(ù­Àà8Û­Õº1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(×ÿÍª8åÆÉ‚º1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·±’õ8æÆÉ‚º1
+G	java:S106"+Replace this use of System.out by a logger.(ŸÏÍè8ÇÉ‚º1

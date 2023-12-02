@@ -1,0 +1,17 @@
+
+s	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK8û¿Á²À1
+y	java:S127 "XRefactor the code in order to not assign to this loop counter from within the loop body.(õƒ’ıÿÿÿÿ8û¿Á²À1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(©ÁÁ–8ü¿Á²À1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş‚Ã8ş¿Á²À1
+
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8§ÁÁ²À1
+L	java:S106#"+Replace this use of System.out by a logger.(š³ºîùÿÿÿÿ8«ÁÁ²À1
+L	java:S106$"+Replace this use of System.out by a logger.(»ë¥Éùÿÿÿÿ8«ÁÁ²À1
+G	java:S1061"+Replace this use of System.out by a logger.(é–¿ş8®ÁÁ²À1
+L	java:S1062"+Replace this use of System.out by a logger.(¼…±šúÿÿÿÿ8®ÁÁ²À1
+G	java:S1063"+Replace this use of System.out by a logger.(áŞšû8®ÁÁ²À1
+L	java:S1064"+Replace this use of System.out by a logger.(ŸºøŠúÿÿÿÿ8®ÁÁ²À1
+O
+java:S11448"-Remove this unused private "setArray" method.(®š´¥ùÿÿÿÿ8°ÁÁ²À1
+P
+java:S1144;".Remove this unused private "setLinked" method.(¼÷öúÿÿÿÿ8°ÁÁ²À1

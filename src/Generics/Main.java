@@ -23,13 +23,14 @@ class Main {
             list.add(Integer.parseInt(s));
         }
         for (Integer x : list) {
+            if (x % 3 == 0) {
+                odd.add(x);
+
+            }
             if (x % 2 == 0) {
                 even.add(x);
             }
-            if (x % 3 == 0) {
-                odd.add(x);
-            }
-            else {
+            if(x % 3 != 0 && x % 2 != 0) {
                 othr.add(x);
             }
         }
@@ -40,8 +41,8 @@ class Main {
     }
 
     public static void printList(ArrayList<Integer> list) {
-        for (int i = 0; i < list.size(); i++) {
-            System.out.println(list.get(i));
+        for (Integer integer : list) {
+            System.out.println(integer);
         }
     }
 }

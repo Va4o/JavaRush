@@ -1,5 +1,5 @@
 
 
-java:S1319*"dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(Ôµ”Ä8¼´«º1
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·±’õ8¿´«º1
-G	java:S106,"+Replace this use of System.out by a logger.(ŸÏÍè8œµ«º1
+java:S1319+"dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(Ôµ”Ä8èĞõ‚º1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·±’õ8êĞõ‚º1
+G	java:S106-"+Replace this use of System.out by a logger.(«òˆì8¥Ñõ‚º1

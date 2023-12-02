@@ -1,0 +1,17 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‘İçûÿÿÿÿ8ËÔÒÃ¼1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ù‡§8ÍÔÒÃ¼1
+X
+java:S1854
+";Remove this useless assignment to local variable "seconds".(ÂÅ8ÖÔÒÃ¼1
+M
+java:S1874"0Remove this use of "getHours"; it is deprecated.(¾“‰™8ØÔÒÃ¼1
+O
+java:S1874	"2Remove this use of "getMinutes"; it is deprecated.(ÏãÂÕ8ÙÔÒÃ¼1
+O
+java:S1874
+"2Remove this use of "getSeconds"; it is deprecated.(ÂÅ8ÙÔÒÃ¼1
+I
+java:S1481
+",Remove this unused "seconds" local variable.(ÂÅ8ÙÔÒÃ¼1
+L	java:S106"+Replace this use of System.out by a logger.( ÌÑÒøÿÿÿÿ8ÚÔÒÃ¼1

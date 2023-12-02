@@ -1,0 +1,55 @@
+
+t	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(‹ËÈ¬8®¹¯ò¼1
+t	java:S127$"XRefactor the code in order to not assign to this loop counter from within the loop body.(ËñÜß8¯¹¯ò¼1
+
+java:S1319"lThe type of "linkedList1" should be an interface such as "List" rather than the implementation "LinkedList".(¼¨ÖŸşÿÿÿÿ8¯¹¯ò¼1
+Œ
+java:S1319 "jThe type of "arrayList1" should be an interface such as "List" rather than the implementation "ArrayList".(Û¢ô¼şÿÿÿÿ8¯¹¯ò¼1
+
+java:S13191"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(†÷•¸8¯¹¯ò¼1
+‡
+java:S13191"jThe type of "arrayList1" should be an interface such as "List" rather than the implementation "ArrayList".(†÷•¸8¯¹¯ò¼1
+“
+java:S13196"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(²î©ıÿÿÿÿ8¯¹¯ò¼1
+
+java:S13196"lThe type of "linkedList1" should be an interface such as "List" rather than the implementation "LinkedList".(²î©ıÿÿÿÿ8¯¹¯ò¼1
+†
+java:S1319:"iThe type of "arrayList" should be an interface such as "List" rather than the implementation "ArrayList".(‘Ñ¤Ô8¯¹¯ò¼1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(šÙÑÉùÿÿÿÿ8¯¹¯ò¼1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–¼˜€şÿÿÿÿ8°¹¯ò¼1
+[
+java:S1854"9Remove this useless assignment to local variable "sTime".(ÛÜÑäûÿÿÿÿ8Æ¹¯ò¼1
+V
+java:S1854"9Remove this useless assignment to local variable "eTime".(ëãì®8Æ¹¯ò¼1
+V
+java:S1854"9Remove this useless assignment to local variable "sTime".(ñİ–Á8Æ¹¯ò¼1
+[
+java:S1854"9Remove this useless assignment to local variable "eTime".(Ú—Ä¼ùÿÿÿÿ8Æ¹¯ò¼1
+T
+java:S1172"2Remove this unused method parameter "linkedList1".(¼¨ÖŸşÿÿÿÿ8Æ¹¯ò¼1
+L
+java:S1481"*Remove this unused "sTime" local variable.(ÛÜÑäûÿÿÿÿ8Æ¹¯ò¼1
+L	java:S106"+Replace this use of System.out by a logger.(‡íş€úÿÿÿÿ8Ç¹¯ò¼1
+L
+java:S1481"*Remove this unused "eTime" local variable.(Ú—Ä¼ùÿÿÿÿ8Ç¹¯ò¼1
+L	java:S106"+Replace this use of System.out by a logger.(´­†Œÿÿÿÿÿ8Ç¹¯ò¼1
+L	java:S106"+Replace this use of System.out by a logger.(»Óá—ûÿÿÿÿ8È¹¯ò¼1
+[
+java:S1854!"9Remove this useless assignment to local variable "sTime".(ÛÜÑäûÿÿÿÿ8È¹¯ò¼1
+V
+java:S1854)"9Remove this useless assignment to local variable "eTime".(ëãì®8È¹¯ò¼1
+V
+java:S1854("9Remove this useless assignment to local variable "sTime".(ñİ–Á8È¹¯ò¼1
+[
+java:S1854'"9Remove this useless assignment to local variable "eTime".(Ú—Ä¼ùÿÿÿÿ8È¹¯ò¼1
+S
+java:S1172 "1Remove this unused method parameter "arrayList1".(Û¢ô¼şÿÿÿÿ8É¹¯ò¼1
+L
+java:S1481!"*Remove this unused "sTime" local variable.(ÛÜÑäûÿÿÿÿ8É¹¯ò¼1
+G	java:S106%"+Replace this use of System.out by a logger.(¨á¾Š8É¹¯ò¼1
+L
+java:S1481'"*Remove this unused "eTime" local variable.(Ú—Ä¼ùÿÿÿÿ8É¹¯ò¼1
+G	java:S106,"+Replace this use of System.out by a logger.(Ü„…ˆ8Ê¹¯ò¼1
+L	java:S106."+Replace this use of System.out by a logger.(æœÛøÿÿÿÿ8Ê¹¯ò¼1
+L	java:S106="+Replace this use of System.out by a logger.(øƒíÿÿÿÿÿ8Ë¹¯ò¼1
+G	java:S106Q"+Replace this use of System.out by a logger.(£««ƒ8Í¹¯ò¼1

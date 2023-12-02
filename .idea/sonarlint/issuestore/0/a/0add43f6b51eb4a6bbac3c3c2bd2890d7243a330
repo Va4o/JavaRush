@@ -1,0 +1,13 @@
+
+s	java:S127 "XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK8—âœúº1
+’
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ñÙ»Øùÿÿÿÿ8˜âœúº1
+†
+java:S1319"dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(ñÙ»Øùÿÿÿÿ8˜âœúº1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ø¸Ü¯şÿÿÿÿ8™âœúº1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·±’õ8šâœúº1
+F	java:S106"+Replace this use of System.out by a logger.(ƒÚáB8€äœúº1
+\
+java:S1854":Remove this useless assignment to local variable "result".(ÿ…‘Ôüÿÿÿÿ8€äœúº1
+M
+java:S1481"+Remove this unused "result" local variable.(ÿ…‘Ôüÿÿÿÿ8äœúº1
